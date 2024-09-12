@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.b268b4c0.css",
+    "main.js": "/Profile/static/js/main.3511ace7.js",
+    "static/media/profile.JPG": "/Profile/static/media/profile.8d95ad265ce364a858f8.JPG",
+    "static/media/project10.png": "/Profile/static/media/project10.53b5447618ed421ae9c9.png",
+    "static/media/project8.png": "/Profile/static/media/project8.a4ef3191cace39352e77.png",
+    "static/media/project5.png": "/Profile/static/media/project5.be6b0ab6899af6afaaaf.png",
+    "static/media/project3.png": "/Profile/static/media/project3.b0a486806fb2e18c4a1f.png",
+    "static/media/project2.png": "/Profile/static/media/project2.34b03399c2621b0bef52.png",
+    "static/media/project1.png": "/Profile/static/media/project1.8a4229fc935466513826.png",
+    "static/media/project4.png": "/Profile/static/media/project4.9272bb8d8783254d69a4.png",
+    "static/media/project11.png": "/Profile/static/media/project11.1f8a4ea2a9d99044fd18.png",
+    "static/media/project7.png": "/Profile/static/media/project7.56561bcdc80dc5ef314d.png",
+    "static/media/project6.png": "/Profile/static/media/project6.7ced9fceb8aea670325a.png",
+    "static/media/project9.png": "/Profile/static/media/project9.8e139088ec5292c5126c.png",
+    "static/media/Moru_CV.pdf": "/Profile/static/media/Moru_CV.717243530b845bfac0a5.pdf",
+    "index.html": "/Profile/index.html",
+    "main.b268b4c0.css.map": "/Profile/static/css/main.b268b4c0.css.map",
+    "main.3511ace7.js.map": "/Profile/static/js/main.3511ace7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b268b4c0.css",
+    "static/js/main.3511ace7.js"
+  ]
+}
